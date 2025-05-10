@@ -2,6 +2,8 @@
 portfolio
 
 ---
+´- [x]` ok 
+`- [x]`, `- [ ]`
 
 ### **Astuces Markdown**
 
